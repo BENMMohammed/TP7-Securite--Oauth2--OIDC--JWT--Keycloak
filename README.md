@@ -22,20 +22,18 @@ Dans cette partie, nous aborderons les sujets suivants :
 
 ### Captures d'écran :
 
-/Users/benmakhloufmohammed/Desktop/Capture d’écran 2024-01-29 à 17.36.47.png
+![Capture d'écran 1](/Users/benmakhloufmohammed/Desktop/Capture%20d’écran%202024-01-29%20à%2017.36.47.png)
 
+![Capture d'écran 2](/Users/benmakhloufmohammed/Desktop/Capture%20d’écran%202024-01-29%20à%2017.39.11.png)
 
-/Users/benmakhloufmohammed/Desktop/Capture d’écran 2024-01-29 à 17.39.11.png
+![Capture d'écran 3](/Users/benmakhloufmohammed/Desktop/Capture%20d’écran%202024-01-29%20à%2017.39.40.png)
 
-/Users/benmakhloufmohammed/Desktop/Capture d’écran 2024-01-29 à 17.39.40.png
+![Capture d'écran 4](/Users/benmakhloufmohammed/Desktop/Capture%20d’écran%202024-01-29%20à%2017.40.04.png)
 
-/Users/benmakhloufmohammed/Desktop/Capture d’écran 2024-01-29 à 17.40.04.png
+![Capture d'écran 5](/Users/benmakhloufmohammed/Downloads/300087085-b42f3a7d-b686-4495-a0c6-c64ddaac37f3.png)
 
-/Users/benmakhloufmohammed/Downloads/300087085-b42f3a7d-b686-4495-a0c6-c64ddaac37f3.png
+![Capture d'écran 6](/Users/benmakhloufmohammed/Downloads/300107572-e33fd39b-f172-4a82-b915-5fda5c2ef64f.png)
 
-/Users/benmakhloufmohammed/Downloads/300107572-e33fd39b-f172-4a82-b915-5fda5c2ef64f.png
+![Capture d'écran 7](/Users/benmakhloufmohammed/Downloads/300107587-0c8615ab-9544-4c9d-bce4-59e65a329b77.png)
 
-/Users/benmakhloufmohammed/Downloads/300107587-0c8615ab-9544-4c9d-bce4-59e65a329b77.png
-
-/Users/benmakhloufmohammed/Downloads/300107589-e501ba60-33dd-47ce-b633-1630a01a441d.png
-
+![Capture d'écran 8](/Users/benmakhloufmohammed/Downloads/300107589-e501ba60-33dd-47ce-b633-1630a01a441d.png)
