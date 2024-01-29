@@ -1,5 +1,3 @@
-<img width="985" alt="Capture d’écran 2024-01-29 à 17 39 11" src="https://github.com/BENMMohammed/TP7-Securite--Oauth2--OIDC--JWT--Keycloak/assets/92373459/5faffd5d-6102-4a0e-ae6a-be92c07a507e"># Sécurité avec OAuth2, OIDC, JWT, Keycloak, SpringBoot
-
 ## Partie 1 : Keycloak, JWT
 
 ### Points clés :
